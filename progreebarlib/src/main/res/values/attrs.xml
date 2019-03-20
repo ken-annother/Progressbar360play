@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaterProgressBar">
+        <attr name="barBackgroundColor" format="color" />
+        <attr name="barForgroundColor" format="color" />
+        <attr name="barIndicatorColor" format="color" />
+    </declare-styleable>
+</resources>
